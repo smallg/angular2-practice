@@ -1,0 +1,20 @@
+{
+  "name": "angular2-ng-bootstrap",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Wenpeng Guo <wenpeng.guo@tubemogul.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/smallg/angular2-practice",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha.4"
+  }
+}
